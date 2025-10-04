@@ -17,7 +17,7 @@
 
 ---
 
-## 🔥 TEAM CONQUERORS - THE ORIGIN STORY
+## 🔥 TEAM  - THE ORIGIN STORY
 
 Three data science warriors entered their first battlefield. Armed with Python, fueled by coffee, and driven by an insatiable hunger to win—**we made our mark!**
 
