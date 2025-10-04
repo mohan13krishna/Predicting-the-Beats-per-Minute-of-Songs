@@ -287,29 +287,6 @@ Status: LEGENDARY
 - **The Kaggle Community** for insightful discussions
 - **Our Future Selves** for not giving up at 2 AM
 
----
-
-## 🔗 CONNECT WITH TEAM PHOENIX ALGORITHMS
-
-<div align="center">
-
-### Mohan Krishna Thalla - Team Lead & ML Engineer
-[![Kaggle](https://img.shields.io/badge/Kaggle-mohankrishnathalla-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/mohankrishnathalla)
-[![GitHub](https://img.shields.io/badge/GitHub-mohan13krishna-181717?style=flat-square&logo=github)](https://github.com/mohan13krishna)
-
-### Rakesh Kolipaka - Data Scientist
-[![Kaggle](https://img.shields.io/badge/Kaggle-rakesh630-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/rakesh630)
-[![GitHub](https://img.shields.io/badge/GitHub-rakeshkolipakaace-181717?style=flat-square&logo=github)](https://github.com/rakeshkolipakaace)
-
-### Ranjith Kumar Digutla - ML Engineer
-[![Kaggle](https://img.shields.io/badge/Kaggle-digutlaranjithkumar-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/digutlaranjithkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-ranjith93250-181717?style=flat-square&logo=github)](https://github.com/ranjith93250)
-
-### Neelam Uday Kiran - Strategic Advisor
-[![Kaggle](https://img.shields.io/badge/Kaggle-neelamuday-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/neelamuday)
-[![GitHub](https://img.shields.io/badge/GitHub-udaykiran2102-181717?style=flat-square&logo=github)](https://github.com/udaykiran2102)
-
-</div>
 
 ---
 
