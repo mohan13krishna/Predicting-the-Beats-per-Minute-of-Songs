@@ -87,7 +87,7 @@ Four data science warriors entered their first battlefield. Armed with Python, f
 - **Total Submissions:** 🚀 **29 Models Deployed**
 - **Team Collaboration:** 💪 **3 Warriors, 1 Mission**
 
-### 🏆 **TOP 2 WEAPONS OF MASS PREDICTION**
+### 🏆 **OUR TOP 2 WEAPONS OF MASS PREDICTION**
 
 #### 🥇 **CHAMPION: Refined 3-Model Ensemble**
 - **Public Score:** 26.38768 🔥
