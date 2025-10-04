@@ -17,34 +17,45 @@
 
 ---
 
-## 🔥 TEAM  - THE ORIGIN STORY
+## 🔥 TEAM PHOENIX ALGORITHMS - THE ORIGIN STORY
 
-Three data science warriors entered their first battlefield. Armed with Python, fueled by coffee, and driven by an insatiable hunger to win—**we made our mark!**
+Four data science warriors entered their first battlefield. Armed with Python, fueled by coffee, and driven by an insatiable hunger to win—**we rose from the ashes and made our mark!**
 
-### 👥 THE UNSTOPPABLE TRIO
+### 👥 THE CORE SQUAD
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://github.com/mohan13krishna.png" width="150px" style="border-radius: 50%;" alt="Mohan Krishna Thalla"/><br />
-<b>⚔️ Mohan Krishna Thalla</b><br />
-<i>Chief Architect & Ensemble Master</i><br /><br />
+<b>👑 Mohan Krishna Thalla</b><br />
+<i>Team Lead & ML Engineer</i><br />
+<i>Ensemble Architect</i><br /><br />
 <a href="https://www.kaggle.com/mohankrishnathalla"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://github.com/rakeshkolipakaace.png" width="150px" style="border-radius: 50%;" alt="Rakesh Kolipaka"/><br />
-<b>🛡️ Rakesh Kolipaka</b><br />
-<i>Model Optimizer & Performance Tuner</i><br /><br />
+<b>🔧 Rakesh Kolipaka</b><br />
+<i>Data Scientist</i><br />
+<i>Hyperparameter Wizard</i><br /><br />
 <a href="https://www.kaggle.com/rakesh630"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 <a href="https://github.com/rakeshkolipakaace"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://github.com/ranjith93250.png" width="150px" style="border-radius: 50%;" alt="Ranjith Kumar Digutla"/><br />
 <b>⚡ Ranjith Kumar Digutla</b><br />
-<i>Stacking Specialist & Meta-Model Expert</i><br /><br />
+<i>ML Engineer</i><br />
+<i>Stacking Specialist</i><br /><br />
 <a href="https://www.kaggle.com/digutlaranjithkumar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 <a href="https://github.com/ranjith93250"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/udaykiran2102.png" width="150px" style="border-radius: 50%;" alt="Neelam Uday Kiran"/><br />
+<b>🎯 Neelam Uday Kiran</b><br />
+<i>Strategic Advisor</i><br />
+<i>Unofficial Support Hero</i><br /><br />
+<a href="https://www.kaggle.com/neelamuday"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+<a href="https://github.com/udaykiran2102"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 </table>
@@ -53,7 +64,7 @@ Three data science warriors entered their first battlefield. Armed with Python, 
 
 **🏆 FIRST COMPETITION | TOP 48% | 29 BATTLE-TESTED SUBMISSIONS 🏆**
 
-*We came. We coded. We conquered.*
+*We rose. We coded. We conquered.*
 
 </div>
 
@@ -168,9 +179,10 @@ We analyzed **9 powerful audio metrics** to crack the BPM code:
    - Interaction features between Energy and InstrumentalScore
 
 5. **Team Synergy** 🤝
-   - Mohan: Ensemble architect (17 submissions!)
-   - Rakesh: Optimization specialist (5 submissions)
-   - Ranjith: Stacking expert (7 submissions)
+   - Mohan (Team Lead): Ensemble architect (17 submissions!)
+   - Rakesh (Data Scientist): Optimization specialist (5 submissions)
+   - Ranjith (ML Engineer): Stacking expert (7 submissions)
+   - Neelam (Strategic Advisor): Unofficial support & guidance
 
 ---
 
@@ -248,7 +260,7 @@ Status: LEGENDARY
 | 📊 **Percentile** | Top 48.3% |
 | 🎯 **Best Score** | 26.38768 |
 | 🚀 **Submissions** | 29 |
-| 🤝 **Team Members** | 3 |
+| 🤝 **Team Members** | 4 |
 | ⏱️ **Days Active** | 30 |
 | 💻 **Models Trained** | 50+ |
 | 🔥 **Ensemble Variants** | 17 |
@@ -278,21 +290,25 @@ Status: LEGENDARY
 
 ---
 
-## 🔗 CONNECT WITH THE CONQUERORS
+## 🔗 CONNECT WITH TEAM PHOENIX ALGORITHMS
 
 <div align="center">
 
-### Mohan Krishna Thalla
+### Mohan Krishna Thalla - Team Lead & ML Engineer
 [![Kaggle](https://img.shields.io/badge/Kaggle-mohankrishnathalla-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/mohankrishnathalla)
 [![GitHub](https://img.shields.io/badge/GitHub-mohan13krishna-181717?style=flat-square&logo=github)](https://github.com/mohan13krishna)
 
-### Rakesh Kolipaka
+### Rakesh Kolipaka - Data Scientist
 [![Kaggle](https://img.shields.io/badge/Kaggle-rakesh630-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/rakesh630)
 [![GitHub](https://img.shields.io/badge/GitHub-rakeshkolipakaace-181717?style=flat-square&logo=github)](https://github.com/rakeshkolipakaace)
 
-### Ranjith Kumar Digutla
+### Ranjith Kumar Digutla - ML Engineer
 [![Kaggle](https://img.shields.io/badge/Kaggle-digutlaranjithkumar-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/digutlaranjithkumar)
 [![GitHub](https://img.shields.io/badge/GitHub-ranjith93250-181717?style=flat-square&logo=github)](https://github.com/ranjith93250)
+
+### Neelam Uday Kiran - Strategic Advisor
+[![Kaggle](https://img.shields.io/badge/Kaggle-neelamuday-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/neelamuday)
+[![GitHub](https://img.shields.io/badge/GitHub-udaykiran2102-181717?style=flat-square&logo=github)](https://github.com/udaykiran2102)
 
 </div>
 
@@ -304,18 +320,18 @@ Status: LEGENDARY
 
 ## *"First Competition. Top 48%. Next Stop: THE PODIUM!"*
 
-### 🏆 TEAM CONQUERORS 🏆
+### 🏆 TEAM PHOENIX ALGORITHMS 🏆
 
 **We're not here to participate. We're here to WIN.**
 
 ---
 
-### 📊 From Zero to Top 48% | 💪 From Beginners to Champions | 🚀 From Learning to Leading
+### 📊 From Zero to Top 48% | 💪 From Ashes to Glory | 🚀 From Learning to Leading
 
 ---
 
-*This is our story. This is our beginning. Watch us rise.* ⭐
+*We rose like a phoenix. This is our story. This is our beginning. Watch us soar.* ⭐
 
-**[Competition Link](https://www.kaggle.com/competitions/playground-series-s5e9)** | **September 2025** | **#TeamConquerors**
+**[Competition Link](https://www.kaggle.com/competitions/playground-series-s5e9)** | **September 2025** | **#TeamPhoenixAlgorithms**
 
 </div>
