@@ -28,8 +28,7 @@ Four data science warriors entered their first battlefield. Armed with Python, f
 <td align="center" width="25%">
 <img src="https://github.com/mohan13krishna.png" width="150px" style="border-radius: 50%;" alt="Mohan Krishna Thalla"/><br />
 <b>👑 Mohan Krishna Thalla</b><br />
-<i>Team Lead & ML Engineer</i><br />
-<i>Ensemble Architect</i><br /><br />
+<i>Team Lead & ML Engineer</i><br /><br />
 <a href="https://www.kaggle.com/mohankrishnathalla"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
