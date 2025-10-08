@@ -1,7 +1,7 @@
 # 🎵 PREDICTING BEATS-PER-MINUTE OF SONGS 🎵
  
 <div align="center"> 
- 
+   
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S5E9-20BEFF?style=for-the-badge&logo=kaggle)
 ![Rank](https://img.shields.io/badge/RANK-1246%2F2581-FF6B6B?style=for-the-badge)   
 ![Score](https://img.shields.io/badge/Best%20Score-26.38768-00D9FF?style=for-the-badge)
