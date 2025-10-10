@@ -12,7 +12,7 @@
 > *"We didn't just participate—we DOMINATED our debut!"*
 
 **29 Submissions | 2 Best Models | Infinite Determination**
-
+ 
 </div>
 
 ---
